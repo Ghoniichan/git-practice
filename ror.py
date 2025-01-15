@@ -3,4 +3,9 @@ def count(num: int):
         print(i)
     pass
 
+def tiger(num: int):
+    for i in range(num):
+        print("ROAAAAR")
+
 count(10)
+tiger(3)
