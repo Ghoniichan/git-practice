@@ -13,3 +13,6 @@ def wolf(num):
 count(10)
 tiger(3)
 wolf(10)
+
+print("I am a tiger")
+tiger(3)
