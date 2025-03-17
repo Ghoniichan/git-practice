@@ -5,3 +5,11 @@ def meow(num:int):
     print("aww aww aww")
     print("doggy aww aww aww")
 meow(5)
+
+def horse(num:int):
+    for i in range(num):
+        print("awwww")
+    
+    print("aww aww aww")
+    print("doggy aww aww aww")
+meow(5)
